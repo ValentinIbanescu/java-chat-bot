@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -18,8 +19,17 @@
             <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/reports/tests" />
             <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/test-results" />
             <option value="$PROJECT_DIR$/Simple Chatty Bot/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Forms of comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Hello, Java platform" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Javadoc comment" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Printing only the longest line" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Select all correct comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Statements" />
             <option value="$PROJECT_DIR$/Topics/Comments/The countdown" />
+            <option value="$PROJECT_DIR$/Topics/Comments/The forgotten comments" />
             <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Three numbers" />
             <option value="$PROJECT_DIR$/Topics/Comments/Uncomment a line" />
             <option value="$PROJECT_DIR$/Topics/Comments/What comments are not used in the program" />
             <option value="$PROJECT_DIR$/Topics/Introduction to Java/Hello" />
@@ -43,6 +53,8 @@
             <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
             <option value="$PROJECT_DIR$/Topics/Printing data/We need to learn Java" />
             <option value="$PROJECT_DIR$/Topics/Printing data/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Theory" />
             <option value="$PROJECT_DIR$/Topics/Types and variables/Animal" />
             <option value="$PROJECT_DIR$/Topics/Types and variables/Assignments" />
             <option value="$PROJECT_DIR$/Topics/Types and variables/Assignments (1)" />

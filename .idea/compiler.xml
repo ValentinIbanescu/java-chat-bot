@@ -9,8 +9,17 @@
       <module name="JetBrainsAcademy.Simple_Chatty_Bot-task-build-test-results.main" target="11" />
       <module name="JetBrainsAcademy.Simple_Chatty_Bot-task-build-tmp.main" target="11" />
       <module name="JetBrainsAcademy.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Comments-Forms_of_comments.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Comments-Hello,_Java_platform.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Comments-Incorrect_comments.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Comments-Javadoc_comment.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Comments-Printing_only_the_longest_line.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Comments-Select_all_correct_comments.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Comments-Statements.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Comments-The_countdown.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Comments-The_forgotten_comments.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Comments-Theory.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Comments-Three_numbers.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Comments-Uncomment_a_line.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Comments-What_comments_are_not_used_in_the_program.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Introduction_to_Java-Hello.main" target="11" />
@@ -34,6 +43,8 @@
       <module name="JetBrainsAcademy.Topics-Printing_data-Theory.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Printing_data-We_need_to_learn_Java.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Printing_data-What_does_the_code_print.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Scanning_the_input-Printing_strings_in_the_same_order.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Scanning_the_input-Theory.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Types_and_variables-Animal.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Types_and_variables-Assignments.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Types_and_variables-Assignments__1_.main" target="11" />
