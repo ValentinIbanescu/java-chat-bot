@@ -9,6 +9,10 @@
       <module name="JetBrainsAcademy.Simple_Chatty_Bot-task-build-test-results.main" target="11" />
       <module name="JetBrainsAcademy.Simple_Chatty_Bot-task-build-tmp.main" target="11" />
       <module name="JetBrainsAcademy.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Comments-The_countdown.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Comments-Theory.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Comments-Uncomment_a_line.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Comments-What_comments_are_not_used_in_the_program.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Introduction_to_Java-Hello.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Introduction_to_Java-Owner_of_Java.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Introduction_to_Java-Theory.main" target="11" />
