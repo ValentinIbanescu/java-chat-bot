@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="17">
+      <module name="JetBrainsAcademy.Simple_Chatty_Bot-task-build-classes-java.main" target="11" />
+      <module name="JetBrainsAcademy.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="JetBrainsAcademy.Simple_Chatty_Bot-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="JetBrainsAcademy.Simple_Chatty_Bot-task-build-reports-tests.main" target="11" />
+      <module name="JetBrainsAcademy.Simple_Chatty_Bot-task-build-test-results.main" target="11" />
+      <module name="JetBrainsAcademy.Simple_Chatty_Bot-task-build-tmp.main" target="11" />
+      <module name="JetBrainsAcademy.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Introduction_to_Java-Hello.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Introduction_to_Java-Owner_of_Java.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Introduction_to_Java-Theory.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Introduction_to_Java-WORA.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Overview_of_the_basic_program-Cats_are_robots.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Overview_of_the_basic_program-Elements_of_a_program.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Overview_of_the_basic_program-Find_a_keyword.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Overview_of_the_basic_program-Find_a_word_that_is_not_a_keyword.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Overview_of_the_basic_program-Hello,_Java.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Overview_of_the_basic_program-Keywords.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Overview_of_the_basic_program-The_Hello_World_program.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Printing_data-Digits_from_0_to_9_backwards.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Printing_data-First,_second,_third.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Printing_data-From_0_to_4.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Printing_data-Printing_a_magic_letter.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Printing_data-Stars.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Printing_data-Theory.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Printing_data-We_need_to_learn_Java.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Printing_data-What_does_the_code_print.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Types_and_variables-Animal.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Types_and_variables-Assignments.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Types_and_variables-Assignments__1_.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Types_and_variables-Fill_the_declaration.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Types_and_variables-Incorrect_counter.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Types_and_variables-Invalid_declaration_of_variables.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Types_and_variables-Statements.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Types_and_variables-The_assignment_operator.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Types_and_variables-The_name_of_a_variable.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Types_and_variables-Theory.main" target="11" />
+      <module name="JetBrainsAcademy.util.main" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
