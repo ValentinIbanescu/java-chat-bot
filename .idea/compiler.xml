@@ -22,11 +22,23 @@
       <module name="JetBrainsAcademy.Topics-Comments-Three_numbers.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Comments-Uncomment_a_line.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Comments-What_comments_are_not_used_in_the_program.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Increment_and_decrement-Decrement_all.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Increment_and_decrement-Theory.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Increment_and_decrement-What_is_the_result.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Arithmetic_expression.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Calculate_the_digit.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Desks.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Difference_of_times.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-First_digit.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Good_rest_on_vacation.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Next_even_number.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Reading_integer_numbers.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Reversing.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Reversing_input_numbers.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Squirrels_and_nuts.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Tens_digit.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-The_sum_of_digits.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Theory.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Introduction_to_Java-Hello.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Introduction_to_Java-Owner_of_Java.main" target="11" />
