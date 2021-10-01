@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-07T15:39:29" hostname="VALENTINs-MacBook-Pro.local" time="0.087">
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-08T18:30:12" hostname="VALENTINs-MacBook-Pro.local" time="0.119">
   <properties/>
-  <testcase name="start" classname="Tests" time="0.087"/>
+  <testcase name="start" classname="Tests" time="0.119"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Hello! My name is Aid.
 I was created in 2018.
 Please, remind me your name.
-> > John
+> John
+What a great name you have, John!
+Let me guess your age.
+Enter remainders of dividing your age by 3, 5 and 7.
+> 1
+> 2
+> 1
 ?[1;31m
 Start test 2?[0m
 Hello! My name is Aid.
 I was created in 2018.
 Please, remind me your name.
-> > Nick
+> Nick
+What a great name you have, Nick!
+Let me guess your age.
+Enter remainders of dividing your age by 3, 5 and 7.
+> 2
+> 0
+> 0
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

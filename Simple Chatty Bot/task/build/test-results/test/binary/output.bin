@@ -3,10 +3,22 @@
 Hello! My name is Aid.
 I was created in 2018.
 Please, remind me your name.
-	> > John
+> John
+"What a great name you have, John!
+Let me guess your age.
+5Enter remainders of dividing your age by 3, 5 and 7.
+> 1
+> 2
+> 1
 [1;31m
 Start test 2[0m
 Hello! My name is Aid.
 I was created in 2018.
 Please, remind me your name.
-	> > Nick
+> Nick
+"What a great name you have, Nick!
+Let me guess your age.
+5Enter remainders of dividing your age by 3, 5 and 7.
+> 2
+> 0
+> 0
