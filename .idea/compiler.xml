@@ -24,7 +24,9 @@
       <module name="JetBrainsAcademy.Topics-Comments-What_comments_are_not_used_in_the_program.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Desks.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Difference_of_times.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Next_even_number.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Reading_integer_numbers.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Reversing.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Integer_types_and_operations-Theory.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Introduction_to_Java-Hello.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Introduction_to_Java-Owner_of_Java.main" target="11" />
