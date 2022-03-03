@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JetBrainsAcademy.iml" filepath="$PROJECT_DIR$/.idea/modules/JetBrainsAcademy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Hello/JetBrainsAcademy.Topics-Introduction_to_Java-Hello.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Hello/JetBrainsAcademy.Topics-Introduction_to_Java-Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Hello/JetBrainsAcademy.Topics-Introduction_to_Java-Hello.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Hello/JetBrainsAcademy.Topics-Introduction_to_Java-Hello.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Hello/JetBrainsAcademy.Topics-Introduction_to_Java-Hello.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Hello/JetBrainsAcademy.Topics-Introduction_to_Java-Hello.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Owner of Java/JetBrainsAcademy.Topics-Introduction_to_Java-Owner_of_Java.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Owner of Java/JetBrainsAcademy.Topics-Introduction_to_Java-Owner_of_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Owner of Java/JetBrainsAcademy.Topics-Introduction_to_Java-Owner_of_Java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Owner of Java/JetBrainsAcademy.Topics-Introduction_to_Java-Owner_of_Java.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Owner of Java/JetBrainsAcademy.Topics-Introduction_to_Java-Owner_of_Java.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Owner of Java/JetBrainsAcademy.Topics-Introduction_to_Java-Owner_of_Java.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Theory/JetBrainsAcademy.Topics-Introduction_to_Java-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Theory/JetBrainsAcademy.Topics-Introduction_to_Java-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Theory/JetBrainsAcademy.Topics-Introduction_to_Java-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Theory/JetBrainsAcademy.Topics-Introduction_to_Java-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Theory/JetBrainsAcademy.Topics-Introduction_to_Java-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Theory/JetBrainsAcademy.Topics-Introduction_to_Java-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/WORA/JetBrainsAcademy.Topics-Introduction_to_Java-WORA.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/WORA/JetBrainsAcademy.Topics-Introduction_to_Java-WORA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/WORA/JetBrainsAcademy.Topics-Introduction_to_Java-WORA.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/WORA/JetBrainsAcademy.Topics-Introduction_to_Java-WORA.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/WORA/JetBrainsAcademy.Topics-Introduction_to_Java-WORA.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/WORA/JetBrainsAcademy.Topics-Introduction_to_Java-WORA.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JetBrainsAcademy.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JetBrainsAcademy.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JetBrainsAcademy.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JetBrainsAcademy.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JetBrainsAcademy.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JetBrainsAcademy.util.test.iml" />
+    </modules>
+  </component>
+</project>
