@@ -1,7 +1,8 @@
 [1;31m
 Start test 1[0m
+
 Hello! My name is Aid.
-I was created in 2018.
+I was created in 2022.
 Please, remind me your name.
 > Marry
 #What a great name you have, Marry!
@@ -24,4 +25,12 @@
 8!
 9!
 10!
-Completed, have a nice day!
+'Let's test your programming knowledge.
+`What is the recommended Code style for a project involving external developers? (type a number)
+
+h1. All programmers write code in the same style following one of generally accepted coding style guides
+E2. Every programmer has their own unique but consistent coding style
+33. Create your own style and follow it consistenly
+X4. No style is needed, every time you write code as you can to save the time and effort
+> 1
+"Congratulations, have a nice day!
