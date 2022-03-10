@@ -22,6 +22,19 @@
       <module name="JetBrainsAcademy.Topics-Comments-Three_numbers.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Comments-Uncomment_a_line.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Comments-What_comments_are_not_used_in_the_program.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Conditional_statement-A_correct_example.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Conditional_statement-An_output_of_the_code.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Conditional_statement-Check_a_number_is_positive.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Conditional_statement-Chocolate.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Conditional_statement-Healthy_sleep.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Conditional_statement-Interval.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Conditional_statement-Leap_year.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Conditional_statement-Statements.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Conditional_statement-Symmetrical_number.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Conditional_statement-The_army_of_units.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Conditional_statement-The_condition_to_travel_around_the_world.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Conditional_statement-Theory.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-Conditional_statement-Triangle.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Increment_and_decrement-Decrement_all.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Increment_and_decrement-Theory.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Increment_and_decrement-What_is_the_result.main" target="11" />
@@ -98,6 +111,19 @@
       <module name="JetBrainsAcademy.Topics-String-Statements.main" target="11" />
       <module name="JetBrainsAcademy.Topics-String-Statements__1_.main" target="11" />
       <module name="JetBrainsAcademy.Topics-String-Theory.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-The_for-loop-Arithmetic_average.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-The_for-loop-Determine_the_result.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-The_for-loop-Fizz_Buzz.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-The_for-loop-Grades.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-The_for-loop-Maximum_element_divisible_by_four.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-The_for-loop-Numbers_divisible_by_six.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-The_for-loop-Size_of_parts.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-The_for-loop-Statements.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-The_for-loop-Such_different_for_loops.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-The_for-loop-The_count_of_numbers_divisible_by_N.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-The_for-loop-The_product_of_numbers_from_a_to_b.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-The_for-loop-The_sum_of_integers_from_a_to_b.main" target="11" />
+      <module name="JetBrainsAcademy.Topics-The_for-loop-Theory.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Types_and_variables-Animal.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Types_and_variables-Assignments.main" target="11" />
       <module name="JetBrainsAcademy.Topics-Types_and_variables-Assignments__1_.main" target="11" />
